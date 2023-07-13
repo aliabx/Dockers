@@ -1,0 +1,10 @@
+{
+  "name": "dockers",
+  "image": "my_image",
+  "extensions": [
+    "Your Preferred VS Code Extensions"
+  ],
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  }
+}
